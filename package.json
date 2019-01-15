@@ -1,0 +1,11 @@
+{
+  "name": "test_bahasa_kita",
+  "version": "1.0.0",
+  "description": "test Joko Mulyono web developer bahasa kita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joko Mulyono",
+  "license": "ISC"
+}
